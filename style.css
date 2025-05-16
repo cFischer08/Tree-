@@ -104,5 +104,6 @@ nav a:hover::after {
 
       nav a {
         margin: 8px 0;
+        margin-right: 7px;
       }
     }
